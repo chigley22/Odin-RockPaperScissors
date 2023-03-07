@@ -1,0 +1,55 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+.choices {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+.computerChoices {
+    display: flex;
+    justify-content: center;
+    gap: .25px;
+    margin-top: 5vh;
+}
+
+div.computerChoices > * {
+    border: solid black;
+    border-width: .5px;
+    padding: 7px;
+    border-radius: 2px;
+}
+
+#rock {
+
+}
+
+#Paper {
+
+}
+
+#Scissors {
+
+}
+
+.playerScore {
+}
+
+.computerScore{
+
+}
+
+.roundResults {
+
+}
+
+.results {
+    /* display: none; */
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    
+    
+}
